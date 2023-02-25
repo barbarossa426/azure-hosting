@@ -1,7 +1,7 @@
 # Azure hosting
 As a developer, you may already know that Microsoft Azure is a cloud computing platform that offers a wide range of services, including hosting web applications, databases, and virtual machines. Hosting on Azure is an excellent option for developers because it provides a scalable, reliable, and cost-effective way to host your applications. In this article, we will discuss some common knowledge on how to host on Azure.
 
-## hoose the Right Azure Service
+## Choose the Right Azure Service
 Before you start hosting your application on Azure, you need to choose the right Azure service. Azure offers a wide range of services, including Azure App Service, Azure Virtual Machines, Azure Kubernetes Service, and Azure Functions, among others. Each service has its own strengths and weaknesses, and you should choose the one that best suits your application’s requirements.
 
 * Create a Resource Group
